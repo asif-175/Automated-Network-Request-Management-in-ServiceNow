@@ -1,5 +1,14 @@
 # Automated Network Request Management in ServiceNow
 
+## 🔗 ServiceNow Project
+
+The project is implemented on a ServiceNow development instance.
+
+**Service Portal:**  
+[Open Network Request Service Portal](https://dev352963.service-now.com/sp)
+
+> **Note:** Access to the ServiceNow instance may require valid credentials and appropriate permissions.
+
 ## 📌 Project Overview
 
 **Automated Network Request Management in ServiceNow** is an IT service automation project developed to streamline the lifecycle of network-related service requests.
